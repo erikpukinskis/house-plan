@@ -1,0 +1,13 @@
+{
+  "name": "house-plan",
+  "version": "0.0.0",
+  "description": "write functions that use studs, plywood, etc to add parts to a house plan",
+  "main": "house-plan.js",
+  "dependencies": {
+    "module-library": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikpukinskis/house-plan.git"
+  }
+}
